@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IqbalKhan009
 - 👀 I’m interested in programing
-- 🌱 I’m currently learning Javascrip
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
